@@ -5,3 +5,4 @@ pandas
 numpy
 matplotlib
 javalang
+memory_profiler
